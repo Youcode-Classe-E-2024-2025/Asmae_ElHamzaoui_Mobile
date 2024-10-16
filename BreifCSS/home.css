@@ -148,13 +148,13 @@ h1 {
   margin-bottom: 40px;
 }
 
-.book-gallery {
+.phone {
   display: grid;
   grid-template-columns: repeat(5, 1fr);
   gap: 20px;
 }
 
-.book {
+.p{
   background-color: white;
   border: 1px solid #ddd;
   border-radius: 8px;
@@ -162,17 +162,17 @@ h1 {
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
-.book img {
+.p img {
   max-width: 100%;
   border-radius: 5px;
 }
 
-.book h2 {
+.p h2 {
   font-size: 18px;
   margin: 10px 0;
 }
 
-.book p {
+.p p {
   font-size: 14px;
   color: #555;
 }
@@ -189,10 +189,10 @@ h1 {
 .texte1{
   background-color: rgb(6, 4, 19);
   opacity: 0.5;
-  width:1000px;
-  height:400px;
+  width:700px;
+  height:340px;
   position:relative;
-  bottom: 500px;
+  bottom: 550px;
   left: 120px;
   color: white;
   border-radius:50px;
