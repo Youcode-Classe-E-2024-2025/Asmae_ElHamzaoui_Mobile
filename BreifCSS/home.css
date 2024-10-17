@@ -220,3 +220,56 @@ h1 {
 
   
 }
+footer {
+  background-color: #1e326d;
+  color: white;
+  padding: 20px;
+  position:absolute;
+  top:5000px;
+  font-family: Arial, sans-serif;
+  
+}
+
+.footer-container {
+  width: 1200px;
+  height: 400px;
+}
+
+
+
+.footer-contact {
+  width: 500px;
+  height: 320px;
+  position:absolute;
+  left:700px;
+  top:80px;
+  font-size:20px;
+  border-radius:15px;
+  background-color: rgba(56, 55, 55, 0.847);
+  text-align:center;
+ 
+  
+}
+
+.footer-contact p, .footer-contact a {
+  color: white;
+  margin: 5px 0;
+  text-decoration: none;
+}
+
+.footer-contact a:hover {
+  text-decoration: underline;
+}
+
+.social-icons {
+  position:absolute;
+  top:240px;
+  max-width: 150px;
+  width: 400px;
+
+}
+
+.social-icons img {
+  width: 30px;
+  height: 30px;
+}
