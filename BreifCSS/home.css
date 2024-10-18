@@ -51,8 +51,10 @@
 
 /* Change the color of links on hover */
 .topnav a:hover {
-  background-color: #ddd;
-  color: black;
+  background-color: #daacd0;
+  color:white;
+  width: 85px;
+  height: 20px;
 }
 
 /* Style the links inside the navigation bar */
@@ -77,8 +79,10 @@
 
 /* Change the color of links on hover */
 .topnav2 a:hover {
-  background-color: #ddd;
-  color: black;
+  background-color: #daacd0;
+  color:white;
+  width: 90px;
+  height: 20px;
 }
 
 .container {
@@ -222,7 +226,6 @@ h1 {
   left:750px;
   border-radius:15px;
   box-shadow:10px 10px 10px rgba(0, 0, 0, 0.614) ;
-
   
 }
 footer {
@@ -231,8 +234,7 @@ footer {
   padding: 20px;
   position:absolute;
   top:3800px;
-  font-family: Arial, sans-serif;
-  
+  font-family: Arial, sans-serif;  
 }
 
 .footer-container {
